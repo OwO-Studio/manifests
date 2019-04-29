@@ -5,10 +5,12 @@
            fetch=".." />
            
   <remote  name="xen-1"
-           fetch="https://github.com/Pr0j3c1X/" />
+           fetch="https://github.com/Pr0j3c1X/" 
+           review="github.com" />
            
    <remote  name="xen-2"
-           fetch="https://github.com/Mozaiosoraft/" />          
+           fetch="https://github.com/Mozaiosoraft/"
+           review="github.com"/>          
 
   <default remote="github"
            sync-c="true"
