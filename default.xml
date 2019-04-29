@@ -5,16 +5,16 @@
            fetch=".." />
            
   <remote  name="xen-1"
-           fetch="https://github.com/Pr0j3c1X" />
+           fetch="https://github.com/Pr0j3c1X/" />
            
    <remote  name="xen-2"
-           fetch="https://github.com/Mozaiosoraft" />          
+           fetch="https://github.com/Mozaiosoraft/" />          
 
   <default remote="github"
            sync-c="true"
            sync-j="2" />
            
-  <project path="Testfiles" name="TestFiles/1/" groups="pdk" remote="xen-1" />
+  <project path="TestFiles" name="TestFiles/" groups="pdk" remote="xen-1" />
            
  </manifest>
            
