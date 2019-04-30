@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="github"
+  <!--<remote  name="github"
            fetch=".." />
            
   <remote  name="xen-1"
@@ -14,9 +14,9 @@
 
   <default remote="github"
            sync-c="true"
-           sync-j="2" />
+           sync-j="2" />-->
            
-  <project path="TestFiles" name="TestFiles/" groups="pdk" remote="xen-1" />
+  <project path="Pr0j3c1X\TestFiles" name="TestFiles/" groups="pdk" />
            
  </manifest>
            
